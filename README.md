@@ -1,0 +1,2 @@
+# Banking_Management_System
+This project is basically a desktop application which will ease a person life from all those manual setups of transaction. The system is designed as an interactive and content management system. The content management system deals with data entry, validation confirm and updating whiles the interactive system deals with system interaction with the administration and users.
